@@ -1,4 +1,4 @@
-# Sky Sweeper
+# Azure Decommission Bot
 A Bash script that handles all Azure subscription resource deletion; clearing out a targeted subscription to essentially create an empty shell.
 
 ![vecteezy_street-cleaning-with-garbage-truck-and-sweepers_15426926](https://github.com/user-attachments/assets/4c5693f7-a652-4e5d-85a2-747cb320f275)
